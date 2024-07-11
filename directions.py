@@ -3,7 +3,7 @@
 import requests
 
 # Replace with your own Google Maps API key
-API_KEY = 'AIzaSyC6V4mvhBct0inPwAYK196j7rwXH-GqjpA'
+API_KEY = 'API_Key'
 
 # Origin and destination
 origin = 'Tacoma, WA'
