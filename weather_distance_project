@@ -3,10 +3,10 @@
 import requests
 
 # OpenWeatherMap API key
-WEATHER_API_KEY = 'a2856e3b70e5756af3b5b1a25cdb61ef'
+WEATHER_API_KEY = 'API'
 
 # Google Maps API key
-GOOGLE_MAPS_API_KEY = 'AIzaSyC6V4mvhBct0inPwAYK196j7rwXH-GqjpA'
+GOOGLE_MAPS_API_KEY = 'API'
 
 # Base URLs
 WEATHER_BASE_URL = 'http://api.openweathermap.org/data/2.5/weather'
