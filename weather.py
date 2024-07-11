@@ -4,7 +4,7 @@
 import requests
 
 # Replace with your own API key from OpenWeatherMap
-API_KEY = 'a2856e3b70e5756af3b5b1a25cdb61ef'
+API_KEY = 'API_Key'
 
 # List of cities you want to get the weather for
 cities = ['Portland', 'Boise', 'Salt Lake City', 'Cheyenne', 'Denver', 'Colorado Springs']
